@@ -19,22 +19,22 @@
 
  2. Place your bet by entering the desired amount. The minimum bet is $1.00.
 
- 2. Choose one of the available colors: Yellow, Blue, Green, Red, or Purple.
+ 3. Choose one of the available colors: Yellow, Blue, Green, Red, or Purple.
 
- 3. If your chosen color matches the computer's selection, you win! The payout is based on the color's odds.
-
- 4. If your guess is incorrect, you lose your bet amount.
+ 4. If your chosen color matches the computer's selection, you win! The payout is based on the color's odds.
+ 
+ 5. If your guess is incorrect, you lose your bet amount.
 
  5. Continue playing as long as you have a positive balance. If you run out of money, the game is over.
 
 
 ### Color Odds
 
- 1. Yellow: 3x payout
- 2. Blue: 5x payout
- 3. Green: 10x payout
- 4. Red: 20x payout
-  5. Purple: 50x payout
+ 1. **Yellow🟡**:   _3x payout_
+ 2. **Blue🔵**:     _5x payout_
+ 3. **Green🟢**:    _10x payout_
+ 4. **Red🔴**:      _20x payout_
+ 5. **Purple🌸**:   _50x payout_
 
 
 ### Ok, How to Run?
