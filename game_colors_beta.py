@@ -15,7 +15,11 @@ color = f"\033[1;38;2;{rgb_color}m"
 
 
 def arts_2d():
-    LINE = int((int(os.popen('stty size', 'r').read().split()[1])) / 2 - 24)
+
+    banner_by = f"""
+    {color}GitHub - Banner By Moe-hacker 💙
+    """
+
     HOPPOU = """
     \033[1;38;2;88;88;88m\033[{                   ▅▅▀▀▀▀▀▀▀▀▀▀▀▀▅
     \033[{                ▅▅▀▀▀               ▀▀▅▅
@@ -40,6 +44,7 @@ def arts_2d():
     \033[{            ▀                       ▀        ▀
     """
 
+    print(banner_by)
     print(HOPPOU)
     print_welcome_message_custom()
 
