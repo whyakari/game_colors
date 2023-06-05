@@ -185,6 +185,6 @@ def main_menu():
             input()
 
 
-# Executa o menu principal
+# main code execute
 main_menu()
 
