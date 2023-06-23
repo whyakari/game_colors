@@ -1,5 +1,5 @@
 # Game Colors v1
- ![game_colors](https://github.com/AkariOficial/game_colors/assets/58480908/feafe27d-7e02-4a0a-993f-f341d3b0e553)
+> ![game_colors](https://github.com/AkariOficial/game_colors/assets/58480908/feafe27d-7e02-4a0a-993f-f341d3b0e553)
 
 #### U can read this doc in
 **[<kbd> <br> 日本 <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README-JP.md)**&emsp;**[<kbd> <br> ENGLISH <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README.md)**&emsp;**[<kbd> <br> PORTUGUESE <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README-PT.md)**&emsp;
