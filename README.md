@@ -6,7 +6,7 @@
 ----
 
 ### Notice
-> Currently, the game "game_colors" is a simple version where players can place bets on colors and try to guess the color chosen by the computer.
+> Currently, the game _game_colors_ is a simple version where players can place bets on colors and try to guess the color chosen by the computer.
 
 ### Requirements
  - Python 3.11.x
