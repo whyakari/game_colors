@@ -12,7 +12,7 @@
  2. Navigate to the game_colors directory.
  3. Run script with python ```python game_colors_beta.py```.
 
-#### running via replit
+#### Running via Replit
 > <a href='https://replit.com/@Nocky/Game-Colors-v1?v=1' target="_blank"><img alt='replit' src='https://img.shields.io/badge/replit-667881?colorA=363a4f&colorB=b7bdf8&style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 #### How to Play?
