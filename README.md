@@ -8,6 +8,9 @@
 ### Notice
 > Currently, the game _game_colors_ is a simple version where players can place bets on colors and try to guess the color chosen by the computer.
 
+### You can read this doc in
+**[<kbd> <br> 简体中文 <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README-JP.md)**&emsp;**[<kbd> <br> English <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README.md)**&emsp;**[<kbd> <br> Portuguese <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README-PT.md)**&emsp;
+
 ### Requirements
  - Python 3.11.x
 
