@@ -10,6 +10,14 @@
 ### Requisitos
  - Python 3.11.x
 
+### Ok, como executar? (manualmente)
+ 1. Clone este repositório.
+ 2. Navegue até o diretório game_colors.
+ 3. Execute o script com python ```python game_colors_beta.py```.
+
+### Rodando via Repl.it
+> <a href='https://replit.com/@Nocky/Game-Colors-v1?v=1' target="_blank"><img alt='replit' src='https://img.shields.io/badge/replit-667881?colorA=363a4f&colorB=b7bdf8&style=for-the-badge&logo=replit&logoColor=white'/></a>
+
 ### Como jogar?
 
 <details>
@@ -30,8 +38,3 @@
  3. **Verde🟢**:    _10x pagamento_
  4. **Vermelho🔴**:      _20x pagamento_
  5. **Rosa🌸**:   _50x pagamento_
-
-### Ok, como executar?
- 1. Clone este repositório.
- 2. Navegue até o diretório game_colors.
- 3. Execute o script com python ```python game_colors_beta.py```.
