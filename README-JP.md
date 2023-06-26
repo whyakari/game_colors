@@ -15,6 +15,14 @@
 ### 必要なもの
 - Python 3.11.x
 
+### では、実行方法は？
+1. このリポジトリをクローンします。
+2. game_colorsディレクトリに移動します。
+3. Pythonでスクリプトを実行します `python game_colors_beta.py`.
+
+### Repl.it経由で実行
+> <a href='https://replit.com/@Nocky/Game-Colors-v1?v=1' target="_blank"><img alt='replit' src='https://img.shields.io/badge/replit-667881?colorA=363a4f&colorB=b7bdf8&style=for-the-badge&logo=replit&logoColor=white'/></a>
+
 ### 遊び方
 <details>
 <summary>遊び方の説明</summary>
@@ -34,8 +42,3 @@
 3. Green🟢: 10x 倍の配当
 4. Red🔴: 20x 倍の配当
 5. Purple🌸: 50x 倍の配当
-
-### では、実行方法は？
-1. このリポジトリをクローンします。
-2. game_colorsディレクトリに移動します。
-3. Pythonでスクリプトを実行します `python game_colors_beta.py`.
