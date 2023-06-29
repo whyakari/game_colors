@@ -10,7 +10,7 @@
 > 現在、ゲーム「game_colors」は、プレイヤーが色にベットを置き、コンピュータが選んだ色を予想するシンプルなバージョンです。
 
 ### このドキュメントは次の場所で読むことができます
-**[<kbd> <br> 简体中文 <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README-JP.md)**&emsp;**[<kbd> <br> English <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README.md)**&emsp;**[<kbd> <br> Portuguese <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README-PT.md)**&emsp;
+**[<kbd> <br> 日本 <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README-JP.md)**&emsp;**[<kbd> <br> English <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README.md)**&emsp;**[<kbd> <br> Portuguese <br> </kbd>](https://github.com/whyakari/game_colors/blob/game_colors_v1/README-PT.md)**&emsp;
 
 ### 必要なもの
 - Python 3.11.x
