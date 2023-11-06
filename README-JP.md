@@ -18,7 +18,7 @@
 ### では、実行方法は？
 1. このリポジトリをクローンします。
 2. game_colorsディレクトリに移動します。
-3. Pythonでスクリプトを実行します `python game_colors_beta.py`.
+3. Pythonでスクリプトを実行します `python game.py`.
 
 ### Repl.it経由で実行
 > <a href='https://replit.com/@Nocky/Game-Colors-v1?v=1' target="_blank"><img alt='replit' src='https://img.shields.io/badge/replit-667881?colorA=363a4f&colorB=b7bdf8&style=for-the-badge&logo=replit&logoColor=white'/></a>
